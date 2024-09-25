@@ -15,6 +15,7 @@ const TermsPage = () => (
       <img
         src="/images/model-img.jpeg"
         alt="Picture of the author"
+        style={{maxWidth: "100%"}}
       />
     </Col>
   </AppWrapper>
