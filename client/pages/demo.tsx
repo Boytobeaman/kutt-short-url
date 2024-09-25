@@ -16,10 +16,9 @@ const TermsPage = () => (
       <Image
         src="/images/model-img.jpeg"
         width={300}
-        height={600}
+        height={500}
         alt="Picture of the author"
       />
-      <p>The Old Man and the Sea is a 1952 novella by the American author Ernest Hemingway. Written between December 1950 and February 1951, it was the last major fictional work Hemingway published during his lifetime. It tells the story of Santiago, an aging fisherman, and his long struggle to catch a giant marlin.</p>
     </Col>
   </AppWrapper>
 );
